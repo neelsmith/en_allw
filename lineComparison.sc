@@ -7,7 +7,7 @@ import edu.holycross.shot.greek._
 import edu.holycross.shot.gsphone._
 import org.homermultitext.edmodel._
 
-val cutOff = 2
+val cutOff = 0
 val index = Source.fromFile("enAllw-toIliad.tsv").getLines.toVector.drop(1)
 val indexColumns = index.map(_.split("\t")).filterNot(_(2).contains("blank"))
 val noPuncEnAllw = indexColumns.map(r => (r(0),r(1),r(2),r(3).replaceAll( "[\\{\\}\\\\>,\\[\\]\\.·⁑;:·\\*\\(\\)\\+\\=\\-“”\"‡  ]+"," ")))
@@ -37,7 +37,7 @@ val octUrns = octText.map(_._1)
 val octVec = octText.map(_._2.toVector)
 val intersected = octVec.map(lineComparison(enAllwVec,_))
 val interTuple = octUrns zip intersected
-val largeOverlap = interTuple.filter(_._2.size > cutOff)
+val largeOverlap = interTuple.filter(_._2.size > cutOff && < 3)
 val line = largeOverlap.map(c => (c._1,findLine(c,octText),c._2))
 line
 
