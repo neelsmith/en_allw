@@ -4,6 +4,8 @@
 
 # Formulating Our Question
 
+[![Iliad 20 image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA268VN-0770.tif&RGN=0.156,0.5435,0.077,0.033&WID=9000&CVT=JPEG)](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA268VN-0770@0.156,0.5435,0.077,0.033)
+
 ---
 
 # Collecting Observations
@@ -37,6 +39,10 @@ Melody and Charlie did some fancy computer stuff that they will explain here
 
 [reinserted lines](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA098RN-0270@0.628,0.4932,0.22,0.0495)
 
+>Elsewhere and here these lines are present: 
+>"κέκλυτέ μευ Τρῶες καὶ Δάρδανοι ἠδ' ἐπίκουροι 
+>/ ὄφρ' εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει"
+
 ---
 
 # Example B: 
@@ -44,6 +50,12 @@ Melody and Charlie did some fancy computer stuff that they will explain here
 **urn:cts:greekLit:tlg5026.msAim.hmt:12.J1** comments on line 12.457
 
 [half line](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA163VN-0665@0.441,0.292,0.058,0.0338)
+
+>Elsewhere: "στη δ' ἂρ ἐπί οὐδὸν ἰ̈ὼν"
+
+>Line 12.457 in the Venetus A reads: στῆ δὲ μάλ' ἐγγὺς ἰὼν. καὶ ἐρεισαμενος βάλε μέσσους. 
+
+>Suggested multiform line: στη δ' ἂρ ἐπί οὐδὸν ἰ̈ὼν. καὶ ἐρεισαμενος βάλε μέσσους. 
 
 ---
 
