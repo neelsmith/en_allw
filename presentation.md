@@ -4,6 +4,8 @@
 
 # Formulating Our Question
 
+[![Iliad 20 image](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA268VN-0770.tif&RGN=0.156,0.5435,0.077,0.033&WID=9000&CVT=JPEG)](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA268VN-0770@0.156,0.5435,0.077,0.033)
+
 ---
 
 # Collecting Observations
