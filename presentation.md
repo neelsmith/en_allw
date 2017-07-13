@@ -26,10 +26,14 @@ Melody and Charlie did some fancy computer stuff that they will explain here
   - actual multiforms or even plus verses
 
 ---
-# Example A
+# Example A: urn:cts:greekLit:tlg5026.msA.hmt:7.2046
+
+[reinserted lines](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA098RN-0270@0.628,0.4932,0.22,0.0495)
 
 ---
-# Example B
+# Example B: urn:cts:greekLit:tlg5026.msAim.hmt:12.J1
+
+[half line](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA163VN-0665@0.441,0.292,0.058,0.0338)
 
 ---
 # What distant reading revealed
