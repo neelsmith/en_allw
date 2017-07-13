@@ -52,6 +52,7 @@ Melody and Charlie did some fancy computer stuff that they will explain here
 >Line 12.457 in the Venetus A reads: στῆ δὲ μάλ' ἐγγὺς ἰὼν. καὶ ἐρεισαμενος βάλε μέσσους. 
 
 >Suggested multiform line: στη δ' ἂρ ἐπί οὐδὸν ἰ̈ὼν. καὶ ἐρεισαμενος βάλε μέσσους. 
+
 *This line does NOT appear anywhere in the OCT version of the Iliad*
 
 ---
