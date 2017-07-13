@@ -56,9 +56,20 @@ Melody and Charlie did some fancy computer stuff that they will explain here
 ---
 
 # What distant reading revealed
+- the quotation appears elsewhere in the Iliad
+- matches the Venetus A but is not found elsewhere
+- they're just minor grammatical or spelling variations (like moveable nu)
+- doesn't match VA or anything else
+- junk data
 
 ---
 
 # Where do we go from here?
-1. Are the scholia working with a notional Iliad?
-2. Do some of these multiforms indicate a tradition of working in half line units?
+
+**Processes:**
+1. Refine the process of fuzzy matching
+1. Do more close reading
+
+**Questions:**
+1. What does this say about the scribe's process: Are the scholia working with a notional Iliad or other Iliad manuscripts?
+1. Do some of these multiforms indicate a tradition of working in half line units?
