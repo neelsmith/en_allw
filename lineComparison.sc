@@ -37,7 +37,7 @@ val octUrns = octText.map(_._1)
 val octVec = octText.map(_._2.toVector)
 val intersected = octVec.map(lineComparison(enAllwVec,_))
 val interTuple = octUrns zip intersected
-val largeOverlap = interTuple.filter(_._2.size > cutOff && < 3)
+val largeOverlap = interTuple.filter(_._2.size > cutOff).filter(_._2.size < 3)
 val line = largeOverlap.map(c => (c._1,findLine(c,octText),c._2))
 line
 
