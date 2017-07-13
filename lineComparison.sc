@@ -28,7 +28,7 @@ val noDuplicates = for (m <- fuzzyMatch) yield {
   val replaceUrn = urn.replaceAll(".msA","")
   val ctsUrn = CtsUrn(replaceUrn)
   val passages = m._4
-  val elimOrig = passages.map(c => (CtsUrn(c._1),c._2)).filterNot(_._1 ~~ exUrn)
+  val elimOrig = passages.map(c => (CtsUrn(c._1),c._2)).filterNot(_._1 ~~ ctsUrn)
   Vector((schol,urn,text)) zip Vector(elimOrig.map(c => (c._1.toString,c._2)))
 }
 
