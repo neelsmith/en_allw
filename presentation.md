@@ -41,7 +41,7 @@ Melody and Charlie did some fancy computer stuff that they will explain here
 
 >Elsewhere and here these lines are present: 
 >"κέκλυτέ μευ Τρῶες καὶ Δάρδανοι ἠδ' ἐπίκουροι 
->ὄφρ' εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει"
+>/ ὄφρ' εἴπω τά με θυμὸς ἐνὶ στήθεσσι κελεύει"
 
 ---
 
