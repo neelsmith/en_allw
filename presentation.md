@@ -70,7 +70,7 @@ We looked at the 17 "Long Scholia" to divide them into categories
 - trash: long scholia that should be thrown out
 
 ---
-Breakdown of distant reading
+# Breakdown of distant reading
 
 - multiform: 49   (47.11%)
 - iliad: 18       (17.30%)
