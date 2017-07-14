@@ -87,6 +87,7 @@ We looked at the 17 "Long Scholia" to divide them into categories
 **Processes:**
 1. Refine the process of fuzzy matching
 1. Do more close reading
+1. Check the *Odyssey* as well
 
 **Questions:**
 1. What does this say about the scribe's process: Are the scholia working with a notional Iliad or other Iliad manuscripts?
