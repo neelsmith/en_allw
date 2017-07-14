@@ -20,7 +20,11 @@ Melissa, Brian, and Stephanie looked at the 17 "Long Scholia" to divide them int
 ---
 
 # Distant Reading
-Melody and Charlie did some fancy computer stuff that they will explain here
+
+1. found every scholion containing "ἐν ἄλλῳ"
+2. found the *Iliad* lines associated with each scholion
+3. found lines of the *Iliad* similar to the *Iliad* line above
+4. analyzed if the phrase following "ἐν ἄλλῳ" appeared in any of the step 3 lines
 
 ---
 
