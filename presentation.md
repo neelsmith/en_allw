@@ -64,8 +64,8 @@ We looked at the 17 "Long Scholia" to divide them into categories
 # What distant reading revealed
 - iliad: the quotation appears elsewhere in the *Iliad*
 - VA: matches the Venetus A but is not found elsewhere
-- lex: they're just minor grammatical or spelling variations (like moveable nu)
-- hex: a full hexameter that does not appear elsewhere
+- lex: they're minor grammatical or spelling variations (like moveable nu)
+- hex: a full hexameter that does not appear elsewhere in the *Iliad*
 - multiform: a valid multiform that does not appear elsewhere in the *Iliad*
 - trash: long scholia that should be thrown out
 
