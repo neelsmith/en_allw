@@ -63,7 +63,6 @@ Melody and Charlie did some fancy computer stuff that they will explain here
 - lex: they're just minor grammatical or spelling variations (like moveable nu)
 - hex: a full hexameter that does not appear elsewhere
 - multiform: a valid multiform that does not appear elsewhere in the *Iliad*
-- noMatch: computer made a bad match
 - trash: long scholia that should be thrown out
 
 ---
