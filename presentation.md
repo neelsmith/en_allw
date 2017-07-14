@@ -66,6 +66,18 @@ Melody and Charlie did some fancy computer stuff that they will explain here
 - trash: long scholia that should be thrown out
 
 ---
+Breakdown of distant reading
+
+multiform: 49   47.11%
+iliad: 18       17.30%
+lex: 16         15.38%
+trash: 12       11.53%
+lex: 12         11.53%
+VA: 8           7.69%
+hex:2           1.92%
+
+
+---
 
 # Where do we go from here?
 
