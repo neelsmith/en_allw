@@ -15,7 +15,7 @@
 ---
 
 # Close Reading
-Melissa, Brian, and Stephanie looked at the 17 "Long Scholia" to divide them into categories
+We looked at the 17 "Long Scholia" to divide them into categories
 
 ---
 
